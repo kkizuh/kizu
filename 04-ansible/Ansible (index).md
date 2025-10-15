@@ -7,7 +7,7 @@ playbook rule
 - Чек-лист идемпотентности и safety флагов.
   https://www.youtube.com/watch?v=Ck1SGolr6GI
 - https://docs.ansible.com/
-
+в
 # Ansible (index)
 
 Мини-оглавление-шпаргалка: минимум теории, максимум практики.

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "05d6911f13ac515f",
+        "id": "5d28a2eb1d7edae7",
         "type": "tabs",
         "children": [
           {
-            "id": "17cde8bb218e5176",
+            "id": "1ec7f6440239528e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-ansible/Ansible (index).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ansible (index)"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -169,10 +165,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "17cde8bb218e5176",
+  "active": "1ec7f6440239528e",
   "lastOpenFiles": [
-    "05-terraform/Terraform (index).md",
     "04-ansible/Ansible (index).md",
+    "05-terraform/Terraform (index).md",
     "06-networking/Networking (index).md",
     "06-networking/Networking (index) 1.md",
     "study-roadmap.md",
