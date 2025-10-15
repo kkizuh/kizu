@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da9203b4a45b160e",
+        "id": "05d6911f13ac515f",
         "type": "tabs",
         "children": [
           {
-            "id": "be9bfe7e398e4285",
+            "id": "17cde8bb218e5176",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "study-roadmap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6420dfe4851fb660",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "329226f79230911d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "study-roadmap"
             }
           }
         ]
@@ -106,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-linux/filesystems-storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для filesystems-storage"
             }
           },
           {
@@ -124,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-linux/filesystems-storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из filesystems-storage"
             }
           },
           {
@@ -152,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "01-linux/filesystems-storage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать"
+              "title": "Структура filesystems-storage"
             }
           }
         ]
@@ -179,8 +169,50 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "d9be573cab1e8529",
+  "active": "17cde8bb218e5176",
   "lastOpenFiles": [
-    "Добро пожаловать.md"
+    "youtrack_tasks_archive_list_only.md",
+    "study-roadmap.md",
+    "03-kubernetes/Kubernetes (index).md",
+    "04-ansible/Ansible (index).md",
+    "06-networking/Networking (index).md",
+    "05-terraform/Terraform (index).md",
+    "11-Databases/Monitoring (db).md",
+    "Performance (design).md",
+    "11-Databases/Databases (index).md",
+    "Security (access).md",
+    "07-monitoring/Monitoring (index).md",
+    "07-monitoring/slo-template.md",
+    "08-cloud/Cloud (index).md",
+    "08-cloud/cloud-services.md",
+    "03-kubernetes/Kubernetes (index) — копия.md",
+    "02-docker/0-Docker (index).md",
+    "02-docker/docker-ops.md",
+    "02-docker/docker-build-and-publish.md",
+    "02-docker/how-to-use-your-own-registry.md",
+    "02-docker/docker-metrics.md",
+    "12-CI CD/CI CD (index).md",
+    "02-docker/docker-storage.md",
+    "02-docker/docker-cheatsheet.md",
+    "02-docker/DockerFile.md",
+    "02-docker/docker-networking.md",
+    "Солянка.md",
+    "assets/Pasted image 20251014192141.png",
+    "assets/Pasted image 20251014192129.png",
+    "assets/Pasted image 20251014191946.png",
+    "assets/Pasted image 20251014191921.png",
+    "assets/Pasted image 20250716191611.png",
+    "assets/Pasted image 20250716184524.png",
+    "assets/Сравнение уровней RAID.png",
+    "13-Virtualization",
+    "12-CI CD",
+    "11-Databases",
+    "07-monitoring",
+    "06-networking",
+    "05-terraform",
+    "assets",
+    "_templates",
+    "10-scripts",
+    "09-s3-tools"
   ]
 }
